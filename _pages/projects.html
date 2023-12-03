@@ -1,14 +1,27 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
 
+Projects
+=====
+
+* Exploiting Idiosyncratic Habits in No-Limit Hold'em
+  * Data mined 10 million+ poker hand histories from IRC dataset to analyze idiosyncratic strategies in multi-agent asymmetric poker 
+  * Designed robust variables that modeled behavior by reducing dimensions of player actions into axes of tightness and aggressiveness
+  * Clustered player strategies through K-means and Gaussian Mixture models to predict players’ systematically exploitable strategies
+
+* Analyzing Election Outcomes through Policy Sentiments
+  * Constructed Multiple Linear Regression model to predict election preference based on survey answers with 65% accuracy; optimized regression predictions by tuning LASSO regularization with cross-validation that improved model RSS by 25%
+
 
 {% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
+
+
 
