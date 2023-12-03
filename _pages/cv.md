@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. Economics, University of Chicago, 2025
+* B.S. Data Science, University of Chicago, 2025
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Voya Investment Management: Investment Risk Intern
+  *	Consolidated the programmatic calculation of WACI in Python of securitized portfolios containing 2700+ securities and sell-side market research to evaluate validity of ESG metrics provided by MSCI; presented key findings to Chief Risk Officer
+  *	Automated PowerBI dashboard generation that tracked 8+ years of thematic portfolio metrics by integrating Bloomberg data with existing data in SQL Server; pushed code into production for 10+ portfolio managers to evaluate historical VaR and Convexity
+  *	Streamlined existing data workflows by spiking abnormal values in accordance with SEC 18f-4 reporting for mutual fund board
+
 
 * Fall 2015: Research Assistant
   * Github University
